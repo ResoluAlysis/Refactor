@@ -1,4 +1,4 @@
-Library: E:\UnityProjects\Assets_01\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+Library: E:\UnityProjects\obj\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-16
 --target=X64_SSE2
@@ -9,11 +9,11 @@ Library: E:\UnityProjects\Assets_01\Temp\StagingArea\Data\Plugins\x86_64\lib_bur
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Refactor_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\UnityProjects\Assets_01\Temp\Burst
+--temp-folder=E:\UnityProjects\obj\Temp\Burst
 --debug=Full
 --key-folder=F:/unityhub/2021.3.45f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=E:\UnityProjects\Assets_01\Library\Burst
---output=E:\UnityProjects\Assets_01\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=E:\UnityProjects\obj\Library\Burst
+--output=E:\UnityProjects\obj\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -41,11 +41,11 @@ Library: E:\UnityProjects\Assets_01\Temp\StagingArea\Data\Plugins\x86_64\lib_bur
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Refactor_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\UnityProjects\Assets_01\Temp\Burst
+--temp-folder=E:\UnityProjects\obj\Temp\Burst
 --debug=Full
 --key-folder=F:/unityhub/2021.3.45f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=E:\UnityProjects\Assets_01\Library\Burst
---output=E:\UnityProjects\Assets_01\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=E:\UnityProjects\obj\Library\Burst
+--output=E:\UnityProjects\obj\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
