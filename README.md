@@ -37,7 +37,9 @@
     - 基础拥有7个技能...（暂不一一列举）；
     - 二阶段（50%生命）修改世界重力大小为0，额外追加1个技能，并稍微减小技能前后摇与增加技能强度。
 
-## 游戏演示:
+  ---
+  
+## 游戏GIF演示（多图预警）:
   ### 经典PVP:
   联机房间 -> 开始游戏
   <img width="960" height="540" alt="pvp_demo_GameStart" src="https://github.com/user-attachments/assets/60e2db83-83af-4500-8fd6-b5a458c082b3" />
@@ -60,6 +62,7 @@
   时间耗尽...
   <img width="1920" height="1080" alt="pvp_Time&#39;sUp" src="https://github.com/user-attachments/assets/05f11026-4de0-432c-8b57-51e92dd77a2b" />
 
+  ---
   
   ### BOSS战-“米迦勒”部分技能展示:
   短暂瞄准 **最近的玩家** 后释放大型飞弹...
