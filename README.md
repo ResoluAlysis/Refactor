@@ -37,3 +37,24 @@
     - 基础拥有7个技能...（暂不一一列举）；
     - 二阶段（50%生命）修改世界重力大小为0，额外追加1个技能，并稍微减小技能前后摇与增加技能强度。
 
+## 游戏演示（经典PVP）
+  <img width="960" height="540" alt="pvp_demo_GameStart" src="https://github.com/user-attachments/assets/60e2db83-83af-4500-8fd6-b5a458c082b3" />
+  > 联机房间 -> 开始游戏
+
+  <img width="960" height="540" alt="pvp_demo_Melee" src="https://github.com/user-attachments/assets/6f3f850c-6453-4863-a402-8e935cac6843" />
+  > 近战 **裂隙** 连击...
+
+  <img width="1920" height="1080" alt="pvp_kill_Melee" src="https://github.com/user-attachments/assets/1ac6b6f2-8352-4f62-a1b6-5a2f44bc553b" />
+  > 近战 **裂隙** 击碎...
+
+  <img width="1920" height="1080" alt="pvp_kill_LongRange1" src="https://github.com/user-attachments/assets/ad8d25a9-1e94-474d-a517-100fa5f5dab1" />
+  > 远程 **光轮** 击碎...
+
+  <img width="960" height="540" alt="pvp_killed_Melee" src="https://github.com/user-attachments/assets/3bce2271-36a9-49a6-9320-fe90c785d486" />
+  > 近战 **裂隙** 被击碎...
+
+  <img width="1920" height="1080" alt="pvp_killed_LongRange" src="https://github.com/user-attachments/assets/d3ecafc6-3f14-4d15-8d85-75b7e87df33b" />
+  > 远程 **光轮** 被击碎...
+
+  <img width="1920" height="1080" alt="pvp_Time&#39;sUp" src="https://github.com/user-attachments/assets/05f11026-4de0-432c-8b57-51e92dd77a2b" />
+  > 时间耗尽...
